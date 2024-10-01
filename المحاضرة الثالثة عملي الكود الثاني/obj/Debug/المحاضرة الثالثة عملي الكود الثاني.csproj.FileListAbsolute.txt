@@ -1,0 +1,9 @@
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\bin\Debug\المحاضرة الثالثة عملي الكود الثاني.exe.config
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\bin\Debug\المحاضرة الثالثة عملي الكود الثاني.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\bin\Debug\المحاضرة الثالثة عملي الكود الثاني.pdb
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\obj\Debug\المحاضرة الثالثة عملي الكود الثاني.csprojResolveAssemblyReference.cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\obj\Debug\المحاضرة_الثالثة_عملي_الكود_الثاني.sendr.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\obj\Debug\المحاضرة_الثالثة_عملي_الكود_الثاني.Properties.Resources.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\obj\Debug\المحاضرة الثالثة عملي الكود الثاني.csproj.GenerateResource.Cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\obj\Debug\المحاضرة الثالثة عملي الكود الثاني.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي الكود الثاني\المحاضرة الثالثة عملي الكود الثاني\obj\Debug\المحاضرة الثالثة عملي الكود الثاني.pdb
